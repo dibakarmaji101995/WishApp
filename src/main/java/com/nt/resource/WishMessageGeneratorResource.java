@@ -7,7 +7,7 @@ import javax.ws.rs.Path;
 @Path("/welcome")
 public class WishMessageGeneratorResource {
 	public WishMessageGeneratorResource() {
-		System.out.println("WishMessageGeneratorResource.WishMessageGeneratorResource()")
+		System.out.println("WishMessageGeneratorResource.WishMessageGeneratorResource()");
 	}
 	
 	//http://localhost:3030/JAX-RS-RESFUL-APP/rest/welcome
